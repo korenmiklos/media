@@ -1,6 +1,6 @@
 # Tech Bio
 
-Miklós Koren teaches reproducible coding practices to economists to help them maximize their scientific impact. He works in the command line, plain text, Markdown, and relies on the right combination of Stata, Python, Julia, git, make, and DocDB. He builds the tools and courses he teaches.
+Miklós Koren teaches reproducible coding practices to economists to help them maximize their scientific impact. He works in the command line, plain text, Markdown, and relies on the right combination of Stata, Python, Julia, git, make, and DuckDB. 
 
 On AI, his focus is on infrastructure that increases competition and lowers switching costs. Preserving model and vendor diversity matters more than optimizing any single stack.
 
