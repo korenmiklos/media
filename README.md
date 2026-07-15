@@ -1,4 +1,8 @@
 # English
+
+![](koren-headshot-2024.jpg)
+[(C) Végel Dániel]([url](https://vegeldaniel.com/))
+
 ## Three-sentence bio
 Miklós Koren is professor of economics at CEU and senior research fellow at the Institute of Economics. His mission is to help economists maximize their scientific impact by adopting effective coding practices. His research focuses on how managerial talent is allocated across businesses.
 
@@ -15,3 +19,10 @@ Miklós Koren teaches reproducible coding practices to economists to help them m
 # Magyar
 ## Egy bekezdéses bio
 Koren Miklós a CEU Közgazdaságtan és Üzleti Gazdaságtan Tanszékének tanára, a KRTK KTI és a CEPR tudományos főmunkatársa, az egyetem Üzleti Analitika MSc programjának és a CEU MicroData kutatócsoportjának alapítója. Kutatása azt vizsgálja, hogyan járul hozzá a tehetség és a technológia az üzleti sikerhez. Tanulmányait vezető nemzetközi folyóiratok közlik, és több nemzetközi kutatási projektben is részt vesz. Munkájával elnyerte a Peter Kenen Fellowshipet (Princetoni Egyetem), az Európai Kutatási Tanács kétszeri támogatását és a Káldor Miklós-díjat (Corvinus Egyetem). Doktori fokozatát a Harvard Egyetemen szerezte 2005-ben. Több mint 20 éve foglalkozik vállalati adatok elemzésével. A CEU előtt a New York-i Federal Reserve Bankben és a Princetoni Egyetemen dolgozott.
+
+---
+## License
+
+Text is CC0.
+
+All pictures are copyright Végel Dániel unless otherwise noted. Low-resolution use as author or speaker portrait permitted. Please reach out for high-resolution print version.
