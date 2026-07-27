@@ -1,7 +1,6 @@
 # English
 
-![](koren-headshot-2024.jpg)
-[(C) Végel Dániel]([url](https://vegeldaniel.com/))
+![](626845083-45b153d0-a441-4cbe-b902-57f61a13d33b.jpeg)
 
 ## Three-sentence bio
 Miklós Koren is professor of economics at CEU and senior research fellow at the Institute of Economics. His mission is to help economists maximize their scientific impact by adopting effective coding practices. His research focuses on how managerial talent is allocated across businesses.
